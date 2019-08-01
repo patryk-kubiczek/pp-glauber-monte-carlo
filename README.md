@@ -1,2 +1,3 @@
-# pp-glauber-monte-carlo
-Glauber Monte Carlo for various geometric models of proton-proton collisions
+# Glauber Monte Carlo for proton-proton collisions
+
+Copyright (C) 2014 P. Kubiczek
